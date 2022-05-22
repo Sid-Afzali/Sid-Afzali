@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sid-Afzali
+- 👋 Hi, I’m @Saeid-Afzali
 - 👀 I’m interested in programming and network 
 - 🌱 I’m currently learning java 
 - 📫 How to reach me migmig.spl22@gmail.com
